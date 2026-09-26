@@ -1,3 +1,5 @@
+> This mod has moved to https://github.com/ben-hough/lc-mods/tree/main/DoorTeleporter. This repo is archived and read-only; full history was preserved there.
+
 # DoorTeleporter
 
 Terminal commands that teleport **you** in front of a random facility door (main entrance or a fire exit).
